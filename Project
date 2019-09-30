@@ -5,7 +5,7 @@
 프로젝트에 사용한 것들(프로그램, 혹은 물리적 장치)
   - Home Desktop(windows10), Laptop(windows10), WireShark, C(visual basic)
  
-프로젝트 요약
+프로젝트 구성
   - Desktop과 Laptop은 같은 Local network내에 있지 않도록 구성한다.
   - Laptop에서 WOL프로토콜을 재구성하여 Desktop의 원격 부팅을 시도한다.
   
