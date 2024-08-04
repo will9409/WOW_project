@@ -7,7 +7,7 @@
  
 프로젝트 구성
   - Desktop과 Laptop은 같은 Local network내에 있지 않도록 구성한다.
-  - Laptop에서 WOL프로토콜을 재구성하여 Desktop의 원격 부팅을 시도한다.
+  - Laptop에서 WOL프로토콜의 Destination Address와 패킷의 내용을 재구성하여 Desktop의 원격 부팅을 시도한다.
   
 프로젝트의 전반적 진행순서
  - 프로토콜과 통신의 이해
